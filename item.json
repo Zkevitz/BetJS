@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "name": "ETB EV09",
+            "price": 70,
+            "quantity": 2
+        },
+        {
+            "name": "ETB EV10",
+            "price": 100,
+            "quantity": 1
+        },
+        {
+            "name": "Display EV08",
+            "price": 220,
+            "quantity": 1
+        },
+        {
+            "name": "Booster EV09",
+            "price": 7,
+            "quantity": 7
+        },
+        {
+            "name": "Bundle EV8.5",
+            "price": 50,
+            "quantity": 4
+        },
+        {
+            "name": "Booster SV9",
+            "price": 4,
+            "quantity": 35
+        },
+        {
+            "name": "Booster SV4S",
+            "price": 3,
+            "quantity": 45
+        }
+    ]
+}

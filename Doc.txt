@@ -1,0 +1,2 @@
+#to launch project
+npx http-server .

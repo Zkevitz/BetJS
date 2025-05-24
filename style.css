@@ -1,0 +1,61 @@
+h1{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    border : 2px solid black;
+    padding : 5px;
+    font-size: 24px;
+}
+
+h2{
+    width: 25%;
+    margin: auto;
+    text-align: center;
+    border : 2px solid black;
+    padding : 5px;
+    font-size: 16px;
+}
+
+.clean-box {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 16px auto;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+  
+/* .clean-box:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+} */
+
+.carte {
+    display: flex;
+    background-color: #ffffff;      /* fond blanc */
+    border-radius: 12px;            /* coins arrondis */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* ombre douce */
+    padding: 20px;                  /* espace intérieur */
+    margin: 16px auto;              /* marge auto centrée */
+    max-width: 600px;               /* largeur max */
+    font-family: 'Segoe UI', sans-serif;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    align-items: center;
+    gap: 32px;
+}
+  
+.carte:hover {
+    transform: translateY(-4px);    /* effet de léger soulèvement */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.item-name {
+    font-size: 1.0rem;  
+    font-weight: bold;
+    color: #333;
+}
+    
