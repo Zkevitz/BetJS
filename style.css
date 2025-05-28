@@ -58,4 +58,16 @@ h2{
     font-weight: bold;
     color: #333;
 }
+
+.reset-button {
+    background-color: #fa4040;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.2s;  /* Animation douce */
+    font-family: 'Segoe UI', sans-serif;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);  /* Légère ombre */
+}
     
